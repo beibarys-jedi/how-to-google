@@ -1,11 +1,11 @@
 # google
 
-| Урок | Тип     | Название                  | Ссылка                            |
-| ---- | ------- | ------------------------- | --------------------------------- |
-| 1    | Теория  | How to Google             | [github.com](./STEP-1/)           |
-| 2    | Теория  | Язык важен                | [github.com](./STEP-2/)           |
-| 3    | Теория  | Гуглить как Senior        | [github.com](./STEP-3/)           |
-| 4    | Задание | none-type                 | [github.com](./none-type/)        |
-| 5    | Задание | site                      | [github.com](./site/)             |
-| 6    | Теория  | Что, если Google не знает | [github.com](./STEP-4/)           |
-| 7    | Задание | investigate-code          | [github.com](./investigate-code/) |
+| Урок | Название                  | Ссылка                            | Тип    |
+| ---- | ------------------------- | --------------------------------- | ------ |
+| 1    | How to Google             | [github.com](./STEP-1/)           | Теория |
+| 2    | Язык важен                | [github.com](./STEP-2/)           | Теория |
+| 3    | Гуглить как Senior        | [github.com](./STEP-3/)           | Теория |
+| 4    | none-type                 | [github.com](./none-type/)        | Теория |
+| 5    | site                      | [github.com](./site/)             | Теория |
+| 6    | Что, если Google не знает | [github.com](./STEP-4/)           | Теория |
+| 7    | investigate-code          | [github.com](./investigate-code/) | Теория |
