@@ -1,5 +1,11 @@
 # forgot
 
+[Предыщуий урок](../site/README.md)
+
+[Назад в начало модуля](../README.md)
+
+[Следующий урок](../investigate-code/README.md)
+
 ### Полезное
 
 - [11 Tricks To Master the Art of Googling as a Software Developer](https://betterprogramming.pub/11-tricks-to-master-the-art-of-googling-as-a-software-developer-2e00b7568b7d)

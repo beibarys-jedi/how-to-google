@@ -1,5 +1,9 @@
 # investigate-code
 
+[Предыдущий урок](../forgot/README.md)
+
+[Назад в начало модуля](../README.md)
+
 В этом задании, вам нужно найти репозиторий в GitHub по кусочку кода ниже.
 
 Прислать ссылку на репозиторий, например `https://github.com/torvalds/linux`
@@ -41,3 +45,7 @@ func NewApp(config *config.AppConfig) (*App, error) {
 ```
 https://github.com/jesseduffield/lazydocker
 ```
+
+[Предыдущий урок](../forgot/README.md)
+
+[Назад в начало модуля](../README.md)
