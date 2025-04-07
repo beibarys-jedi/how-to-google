@@ -41,4 +41,8 @@
 - [news.ycombinator.com - Самый последние новинки в ИТ](https://news.ycombinator.com/news)
 - [smashingmagazine.com - Качественные статьи про ИТ](https://www.smashingmagazine.com/)
 
+[Предыдущий урок](../STEP-1/README.md)
+
+[Назад в начало модуля](../README.md)
+
 [Следующий урок](../STEP-3/README.md)
